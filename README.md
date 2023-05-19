@@ -25,6 +25,5 @@
     <a href = "https://www.instagram.com/marcos.grandesso/">
       <img width="25" src="instagram.png">
     </a>
-      ![Snake animation](https://github.com/MarcosGrandesso/MarcosGrandesso/blob/output/github-contribution-grid-snake.svg)
 </div>
 
