@@ -1,6 +1,6 @@
 ## Hello, I'am Marcos Grandesso
 <img src="./lineBar.png" width="100%" height="8px"/>
-<img src="./setup.jpg" width="100%" height="500px"/>
+<img src="./pixelart.gif" width="100%" height="500px"/>
 
 <img src="./lineBar.png" width="100%" height="8px"/>
 <div>
