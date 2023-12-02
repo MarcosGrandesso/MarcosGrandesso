@@ -26,6 +26,8 @@
     <img height='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' />
     <img height='60' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg' />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+
   </div>
 </div>
 
