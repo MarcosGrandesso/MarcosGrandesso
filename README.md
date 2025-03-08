@@ -1,12 +1,6 @@
 ## Hello, I'am Marcos Grandesso
-
-<img src="./lineBar.png" width="100%" height="8px"/>
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosGrandesso&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_c"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGrandesso&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_c"/>
-</div>
-<br>
-<img src="./lineBar.png" width="100%" height="8px"/>
+Software developer at Buser,  
+living in the south of Portugal and studying Systems Engineering.
 
 
 <div><br />
