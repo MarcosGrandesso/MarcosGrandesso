@@ -1,5 +1,5 @@
 ## Hello, I'am Marcos Grandesso
-Software developer at Buser,  
+Software developer at Wada,  
 living in the south of Portugal and studying Systems Engineering.
 
 
